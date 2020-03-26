@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-babel-exclude",
+  "version": "1.0.1",
+  "description": "babel exclude",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbernini/gatsby-babel-exclude.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "plugin",
+		"babel-exclude"
+  ],
+  "author": "Giovanni Bernini <giovannibernini.ti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbernini/gatsby-babel-exclude/issues"
+  },
+  "homepage": "https://github.com/gbernini/gatsby-babel-exclude#readme"
+}

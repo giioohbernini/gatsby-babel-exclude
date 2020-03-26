@@ -11,6 +11,8 @@
     "gatsby",
     "gatsby-plugin",
     "plugin",
+		"exclude",
+		"babel",
 		"babel-exclude"
   ],
   "author": "Giovanni Bernini <giovannibernini.ti@gmail.com>",
